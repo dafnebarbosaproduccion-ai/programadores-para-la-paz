@@ -1,0 +1,8 @@
+Node.js es importante porque permite ejecutar JavaScript en el servidor, lo que amplía las posibilidades del desarrollo web.  
+Usar tecnologías como Express facilita la creación de servidores y rutas de forma más rápida y organizada.  
+Esto permite construir aplicaciones web más eficientes y escalables.  
+Además, ayuda a las comunidades a desarrollar sus propias herramientas digitales.  
+El uso de tecnologías abiertas fomenta la colaboración y el aprendizaje.  
+También permite que más personas participen en proyectos tecnológicos.  
+Aprender esto fortalece el pensamiento lógico y la programación.  
+En general, facilita la creación de soluciones útiles para problemas reales.
