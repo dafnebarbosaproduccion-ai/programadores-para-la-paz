@@ -1,0 +1,8 @@
+Un servidor es fundamental porque permite que una aplicación esté disponible para los usuarios en todo momento.
+La estabilidad del servidor garantiza que la plataforma no se caiga cuando hay uso constante.
+Esto es clave en proyectos comunitarios donde muchas personas dependen del sistema.
+La seguridad ayuda a proteger la información y evitar accesos no autorizados.
+Además, los logs permiten identificar errores y solucionarlos rápidamente.
+Si el servidor falla, la comunicación entre usuarios se ve afectada.
+Por eso es importante monitorear el sistema constantemente.
+En conclusión, un buen servidor asegura confianza y continuidad en la plataforma.
