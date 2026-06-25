@@ -1,0 +1,4 @@
+{
+  "tipo": "Seguridad",
+  "descripcion": "Se reporta una situación sospechosa en el barrio durante la noche."
+}
