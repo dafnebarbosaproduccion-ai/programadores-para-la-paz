@@ -1,0 +1,5 @@
+1. No compartir contraseñas ni credenciales.
+2. Usar autenticación segura.
+3. Proteger datos personales de los usuarios.
+4. Mantener el sistema actualizado.
+5. Registrar accesos y actividades importantes.
