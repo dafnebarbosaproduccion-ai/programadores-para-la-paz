@@ -1,0 +1,8 @@
+Las APIs permiten la comunicación entre diferentes sistemas de forma organizada.  
+En comunidades digitales ayudan a enviar información importante de manera rápida.  
+También permiten centralizar reportes y alertas en un solo sistema.  
+Esto mejora la organización de la información comunitaria.  
+Facilitan la participación ciudadana en entornos digitales.  
+Hacen más eficiente el intercambio de datos.  
+Permiten crear sistemas conectados entre sí.  
+En general, mejoran la comunicación y la toma de decisiones.
