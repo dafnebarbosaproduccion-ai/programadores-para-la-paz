@@ -1,0 +1,7 @@
+Cuando se envía un reporte mediante la ruta POST /reportes, la información se almacena temporalmente en el array llamado reportes.
+
+Al consultar la ruta GET /reportes, el servidor devuelve una lista con todos los reportes registrados hasta ese momento.
+
+Cada reporte incluye un identificador, el tipo de reporte y una descripción.
+
+Esto permite visualizar de forma organizada la información que ha sido registrada por los usuarios.
