@@ -1,0 +1,8 @@
+Evento que activa la automatización:
+Una causa alcanza la meta de apoyos establecida.
+
+Mensaje que se envía:
+"La causa ha alcanzado el número de apoyos requerido. Ya está disponible para generar el documento de la petición."
+
+Información que no debe enviarse por seguridad:
+No deben compartirse datos personales de los ciudadanos, comentarios privados, documentos de identidad, claves, tokens o cualquier información sensible almacenada en la plataforma.

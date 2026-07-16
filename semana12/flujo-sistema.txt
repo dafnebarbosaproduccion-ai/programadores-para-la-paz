@@ -1,0 +1,5 @@
+1. Un usuario crea una nueva causa desde la plataforma.
+2. El sistema valida la información y la guarda en la base de datos.
+3. La causa se publica para que otros ciudadanos puedan conocerla y apoyarla.
+4. Cada nuevo apoyo queda registrado y el contador de participantes se actualiza automáticamente.
+5. Finalmente, el sistema permite generar un documento PDF con el resumen de la causa y los apoyos recibidos.
